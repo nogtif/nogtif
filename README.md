@@ -2,22 +2,14 @@
 
 ### I'm a Developer and Player!
 
-- 🌱 I’m mainly develop NodeJS programs with technologies like Vue, React or Angular...
+- 🌱 I'm a software developer mainly working on web applications.
+    I’m interested in building tools and systems that solve concrete problems, whether through web technologies, automation, or exploratory research projects.
+    I also work on task automation using AI and on cross-disciplinary projects combining multiple domains such as artificial intelligence, history, finance, or data analysis.
 - ⚡ Fun fact: I love to read, play video games and pokémon!
 
 
 ### Languages and Tools
 
-<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="VueJS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-<img align="left" alt="MongoDB" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,npm,angular,vue,nuxtjs,vite,vitest,react,next,python,java,kotlin,linux,bash,terraform,docker,idea,vscode,git,gitlab,github,mongodb,figma)](https://skillicons.dev)
 
 [website]: [https://twitter.com/nogtif_](https://x.com/nogtif_)
